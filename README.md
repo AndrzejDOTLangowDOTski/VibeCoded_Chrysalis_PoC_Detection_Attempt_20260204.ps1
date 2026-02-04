@@ -6,13 +6,13 @@ Asks for admin privilages, do not trust me - make sure you analyze the code befo
 
 Run the script from its folder with
 
-powershell.exe -ExecutionPolicy Bypass -File .\VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204..ps1
+powershell.exe -ExecutionPolicy Bypass -File .\VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204.ps1
 
 Result:
 
 1 window asking for Admin privs:
 
-PS D:\TestUser\Desktop\Notepad++ Chrysalis> powershell.exe -ExecutionPolicy Bypass -File .\VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204..ps1
+PS D:\TestUser\Desktop\Notepad++ Chrysalis> powershell.exe -ExecutionPolicy Bypass -File .\VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204.ps1
 [*] Administrator privileges required.
 [*] Requesting elevation...
 [+] Elevated PowerShell launched.

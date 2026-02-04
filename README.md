@@ -1,6 +1,8 @@
 # VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204.ps1
 AI written (but working) Chrysalis Detection Script with Self-Elevation + Persistent Admin Window based on Rapid 7 and Kaspersky PoC info.
 
+Asks for admin privilages, do not trust me - make sure you analyze the code before running. I am taking no responsibility for your system / PC etc.
+
 PS D:\TestUser\Desktop\Notepad++ Chrysalis> powershell.exe -ExecutionPolicy Bypass -File .\VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204..ps1
 [*] Administrator privileges required.
 [*] Requesting elevation...

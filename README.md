@@ -2,7 +2,7 @@
 
 AI written (but working) Chrysalis Detection Script with Self-Elevation + Persistent Admin Window based on Rapid 7 and Kaspersky PoC info.
 
-Asks for admin privilages, do not trust me - make sure you analyze the code before running. I am taking no responsibility for your system / PC etc.
+Asks for admin privilages, do not trust me - make sure you analyze the code before running it. I am taking no responsibility for your system / PC etc.
 
 Run the script from its folder with
 

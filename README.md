@@ -4,11 +4,21 @@ AI written (but working) Chrysalis Detection Script with Self-Elevation + Persis
 
 Asks for admin privilages, do not trust me - make sure you analyze the code before running. I am taking no responsibility for your system / PC etc.
 
+Run the script from its folder with
+
+powershell.exe -ExecutionPolicy Bypass -File .\VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204..ps1
+
+Result:
+
+1 window asking for Admin privs:
+
 PS D:\TestUser\Desktop\Notepad++ Chrysalis> powershell.exe -ExecutionPolicy Bypass -File .\VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204..ps1
 [*] Administrator privileges required.
 [*] Requesting elevation...
 [+] Elevated PowerShell launched.
 Press ENTER to close this window:
+
+2 Window with results:
 
 Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
@@ -37,4 +47,10 @@ Log file saved at:
   D:\TestUser\Desktop\Notepad++ Chrysalis\OPTIPLEX-7010_2026-02-04_13-26.txt
 =============================
 Press ENTER to close this window:
+
+And a log file saved in the same folder as script.
+
+Catch you on the flip side,
+
+AndrzejL
 

@@ -1,4 +1,5 @@
 # VibeCoded_Chrysalis_PoC_Detection_Attempt_20260204.ps1
+```
 AI written (but working) Chrysalis Detection Script with Self-Elevation + Persistent Admin Window based on Rapid 7 and Kaspersky PoC info.
 
 Asks for admin privilages, do not trust me - make sure you analyze the code before running. I am taking no responsibility for your system / PC etc.
@@ -35,4 +36,5 @@ Scan completed successfully.
 Log file saved at:
   D:\TestUser\Desktop\Notepad++ Chrysalis\OPTIPLEX-7010_2026-02-04_13-26.txt
 =============================
-Press ENTER to close this window:
+Press ENTER to close this window:```
+

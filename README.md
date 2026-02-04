@@ -26,7 +26,7 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
 
 --- Starting system scan for Notepad++ Hijack / Chrysalis IoCs ---
-Log file: D:\TestUser\Desktop\Notepad++ Chrysalis\OPTIPLEX-7010_2026-02-04_13-26.txt
+Log file: D:\TestUser\Desktop\Notepad++ Chrysalis\HOSTNAME_2026-02-04_13-26.txt
 [+] Directory not found: C:\Users\TestUser\AppData\Roaming\Bluetooth
 [+] Directory not found: C:\Users\TestUser\AppData\Roaming\ProShow
 [+] Directory not found: C:\Users\TestUser\AppData\Roaming\Adobe\Scripts
@@ -39,12 +39,12 @@ Log file: D:\TestUser\Desktop\Notepad++ Chrysalis\OPTIPLEX-7010_2026-02-04_13-26
     [?] File found: C:\ProgramData\Microsoft\Windows\AppxProvisioning.xml
 [+] Chrysalis mutex not found: Global\Jdhfv_1.0.1
 --- Scan complete ---
-Results saved to: D:\TestUser\Desktop\Notepad++ Chrysalis\OPTIPLEX-7010_2026-02-04_13-26.txt
+Results saved to: D:\TestUser\Desktop\Notepad++ Chrysalis\HOSTNAME_2026-02-04_13-26.txt
 
 ========== SUMMARY ==========
 Scan completed successfully.
 Log file saved at:
-  D:\TestUser\Desktop\Notepad++ Chrysalis\OPTIPLEX-7010_2026-02-04_13-26.txt
+  D:\TestUser\Desktop\Notepad++ Chrysalis\HOSTNAME_2026-02-04_13-26.txt
 =============================
 Press ENTER to close this window:
 
